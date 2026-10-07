@@ -12,6 +12,8 @@ Ajdovščina, Slovenia · Open to remote / EU opportunities
 [![GitHub](https://img.shields.io/badge/GitHub-arku75-181717?style=for-the-badge&logo=github)](https://github.com/arku75)
 [![Open to Work](https://img.shields.io/badge/Open_to-Work_%7C_Contract_%7C_Freelance-2ea44f?style=for-the-badge)](#open-to-work)
 
+**[Portfolio](PORTFOLIO.md) · [Repository map](REPOSITORIES.md) · [Work with me](WORK_WITH_ME.md) · [All repositories](https://github.com/arku75?tab=repositories) · [Stars](https://github.com/arku75?tab=stars)**
+
 </div>
 
 ---
