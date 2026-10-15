@@ -10,7 +10,7 @@ Ajdovščina, Slovenia · Open to remote / EU opportunities
 
 [![EIDOS](https://img.shields.io/badge/Flagship-EIDOS-6f42c1?style=for-the-badge)](https://github.com/arku75/EIDOS)
 [![GitHub](https://img.shields.io/badge/GitHub-arku75-181717?style=for-the-badge&logo=github)](https://github.com/arku75)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ema_Curk_Mali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ema-curk-mali-1a89b5440)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ema_Curk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ema-curk-mali-1a89b5440)
 [![Open to Work](https://img.shields.io/badge/Open_to-Work_%7C_Contract_%7C_Freelance-2ea44f?style=for-the-badge)](#open-to-work)
 
 **[Portfolio](PORTFOLIO.md) · [Repository map](REPOSITORIES.md) · [Work with me](WORK_WITH_ME.md) · [All repositories](https://github.com/arku75?tab=repositories) · [Stars](https://github.com/arku75?tab=stars)**
