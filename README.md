@@ -1,6 +1,6 @@
 <div align="center">
 
-# Luka Sorta
+# Ema Curk Mali
 
 ### AI Automation & Agentic Systems Builder
 
@@ -194,7 +194,7 @@ If your team has a manual process that could become an AI-assisted workflow, an 
 ## GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arku75&show_icons=true&hide_border=true&include_all_commits=true" alt="Luka Sorta GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=arku75&show_icons=true&hide_border=true&include_all_commits=true" alt="Ema Curk Mali GitHub stats">
 </p>
 
 ---
