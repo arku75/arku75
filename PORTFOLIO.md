@@ -1,6 +1,6 @@
 # Portfolio
 
-## Luka Sorta — AI Automation & Agentic Systems Builder
+## Ema Curk Mali — AI Automation & Agentic Systems Builder
 
 This portfolio is intentionally concise and evidence-based. It highlights work I can publicly point to today without claiming ownership of forks or upstream projects.
 
